@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/damia/OneDrive/Documentos/NetBeansProjects/task_manager/src/java/serverlet/TaskServlet.java</file>
+            <file>file:/C:/Users/damia/OneDrive/Documentos/NetBeansProjects/task_manager/web/index.html</file>
+            <file>file:/C:/Users/damia/OneDrive/Documentos/NetBeansProjects/task_manager/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/damia/OneDrive/Documentos/NetBeansProjects/task_manager/web/script.js</file>
+            <file>file:/C:/Users/damia/OneDrive/Documentos/NetBeansProjects/task_manager/web/styles.css</file>
+            <file>file:/C:/Users/damia/OneDrive/Documentos/NetBeansProjects/task_manager/src/java/task_model/Task.java</file>
+            <file>file:/C:/Users/damia/OneDrive/Documentos/NetBeansProjects/task_manager/src/java/rest/ApplicationConfig.java</file>
+            <file>file:/C:/Users/damia/OneDrive/Documentos/NetBeansProjects/task_manager/src/java/rest/TaskResource.java</file>
+            <file>file:/C:/Users/damia/OneDrive/Documentos/NetBeansProjects/task_manager/src/java/mongo_connection/MongoConnection.java</file>
+        </group>
+    </open-files>
+</project-private>
